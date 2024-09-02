@@ -1,8 +1,6 @@
 
 # Dice Game 
 
-
-
 ## Overview
 
 This Dice Game is a simple web-based game developed using HTML, CSS, and JavaScript.
